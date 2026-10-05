@@ -1,0 +1,14 @@
+#!/bin/bash
+
+PYTHON_HOME=/usr/bin
+PATH=${PYTHON_HOME}:${PATH}
+PATH=${PYTHON_HOME}\Scripts:${PATH}
+
+VENV_NAME=myenv
+
+# DEBUG, INFO, WARNING, ERROR, CRITICAL
+MEC_LOG_LEVEL=INFO
+
+export PATH
+export VENV_NAME
+export MEC_LOG_LEVEL

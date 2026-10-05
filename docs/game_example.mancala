@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "pits": [
+    0,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4,
+    0,
+    5,
+    5,
+    5,
+    5
+  ],
+  "captured": [
+    0,
+    0
+  ],
+  "current_player": 0,
+  "no_capture_streak": 2
+}

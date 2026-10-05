@@ -1,0 +1,51 @@
+regole
+
+OWARE - WARI (Mancala) – Regole
+Obiettivo
+Catturare più semi possibile.
+Si gioca con 48 semi.
+Vince chi ne cattura 25 o più.
+Se entrambi ne catturano 24, è pareggio.
+Preparazione
+2 giocatori.
+Ogni giocatore ha 6 buche.
+Si mettono 4 semi in ogni buca.
+Le 6 buche davanti a te sono il tuo lato.
+Non ci sono buche-deposito: i semi catturati vengono tenuti fuori dal tabellone.
+Come si gioca
+Scegli una delle tue buche non vuote.
+Prendi tutti i semi della buca.
+Distribuiscili uno alla volta nelle buche successive, in senso antiorario.
+La buca di partenza viene saltata: non vi depositi un seme, anche se fai più di un giro.
+Se la buca contiene un solo seme, lo sposti nella buca successiva.
+Se contiene abbastanza semi da fare più di un giro, continui normalmente, saltando sempre la buca di partenza.
+Come si cattura
+Conta il numero di semi dopo aver depositato l'ultimo seme.
+Se l'ultimo seme cade in una buca del lato avversario e, con il seme appena aggiunto, quella buca contiene esattamente 2 o 3 semi, catturi tutti quei semi.
+Puoi poi catturare anche le buche avversarie immediatamente precedenti, andando all'indietro, finché contengono esattamente 2 o 3 semi.
+La cattura si ferma appena incontri una buca con un numero diverso da 2 o 3.
+Non si catturano mai semi dal proprio lato.
+Esempio: una buca avversaria contiene 1 seme → vi cade il tuo ultimo seme → diventano 2 → catturi entrambi.
+La semina non deve necessariamente terminare nel lato avversario, può terminare anche nel tuo lato. Però puoi catturare solo se l'ultimo seme cade nel lato avversario e quella buca, dopo aver ricevuto il seme, contiene 2 o 3 semi.
+Quindi:
+ultimo seme nel tuo lato → nessuna cattura;
+ultimo seme nel lato avversario → può esserci una cattura;
+se devi fare più di un giro, salti sempre la buca di partenza.
+Regola del "nutrire" l'avversario
+Se l'avversario non ha alcun seme, devi, se possibile, fare una mossa che gli permetta di riceverne.
+Non puoi scegliere una mossa che lasci l'avversario senza semi se esiste una mossa legale che gliene dà.
+Se nessuna tua mossa può dare semi all'avversario, puoi giocare comunque.
+Cattura dell'intero lato avversario
+Non puoi effettuare una cattura che lasci l'avversario completamente senza semi se hai un'altra mossa legale che gli permette di continuare a giocare.
+In altre parole, non puoi "affamare" deliberatamente l'avversario.
+Fine della partita
+La partita termina quando:
+un giocatore ha catturato 25 o più semi; oppure
+non è possibile effettuare una mossa legale; oppure
+la posizione entra in un ciclo senza possibilità di ulteriori catture.
+In caso di fine senza un vincitore, i semi rimasti sul tabellone vengono assegnati secondo le regole della variante utilizzata e si contano i totali. Una variante semplice e comune ad es. è:
+Se la partita si blocca, ogni giocatore prende tutti i semi rimasti nelle proprie 6 buche.
+Si sommano questi semi a quelli già catturati.
+Chi ha più semi vince.
+Se entrambi arrivano a 24, è pareggio.
+Nota: il Wari ha diverse varianti regionali; le regole sopra sono quelle della versione standard Awalé/Wari più comunemente utilizzata.

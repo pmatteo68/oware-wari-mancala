@@ -1,0 +1,5 @@
+# Mancala (Oware/Wari) - Python requirements
+# Python 3.8+ required
+# tkinter is included in the standard CPython distribution (no pip install needed)
+
+matplotlib>=3.7
